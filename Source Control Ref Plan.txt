@@ -51,4 +51,8 @@
 	Jmr Recommended Repo Architecture
 		
 	Jmr Recommended Commit Description
+	
+	Cygwin Ref
+		*add R.C. extension here
+	Example of Eclipse Usage
 		
