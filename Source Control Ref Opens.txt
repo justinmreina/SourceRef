@@ -1,4 +1,5 @@
 @section 	Opens
+	integrate 'Revision Control Identification' into this doc, deprecating that one
 	picture illustration of Repo organization & structure (HEAD, HEAD~1, branches, tags)
 		*something clean, and simple! Not just a gitk picture, manual generation & clean
 	
