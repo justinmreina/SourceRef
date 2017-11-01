@@ -1,6 +1,6 @@
 @brief 		Document to outline & synchronize Ergsense development efforts
 @targ 		Ergsense Dev
-@date 		10/21/17
+@date 		10/31/17
 
 @section 	Sections
 	Introduction
@@ -29,25 +29,17 @@
 	Git Commit description
 		file change tracking with text description & repo, plain and simple (Z<-A->B->C/>D1\>D2)
 		Repo is simply a series of these in order, in branches. typically just a single branch, side branches for ideas or misc. exploration
-<actions>
-	Checkout
-		git checkout (sha or branch, anything that points to a node)
-	Status
-		
-	Reset
-		
-	Add
-		
-	Commit
-		
-	Branch
-		
-	Tag
-		
-	Checkout
-		
-	Rebase
-		
+	Action
+		Checkout
+			git checkout (sha or branch, anything that points to a node)
+		Status
+		Reset
+		Add
+		Commit
+		Branch
+		Tag
+		Checkout
+		Rebase
 	Jmr Recommended Repo Architecture
 		
 	Jmr Recommended Commit Description
